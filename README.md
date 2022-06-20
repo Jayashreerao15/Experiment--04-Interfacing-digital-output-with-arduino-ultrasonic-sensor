@@ -1,4 +1,5 @@
-# EXPERIMENT-NO--05-Distance measurement using Ultrasonic sensor
+### EX NO : 04
+# <p align="center"> Distance measurement using Ultrasonic sensor </p>
 
 ## AIM: 
 To interface an FSR(force sensitive resistor) and scale the output voltage obtained to pressure applied 
